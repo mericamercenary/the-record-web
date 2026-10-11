@@ -1,0 +1,17 @@
+# U.S. Constitution: 23rd Amendment: presidential electors for Washington, D.C.
+
+> Read-only record from THE RECORD; cite sources; no verdicts.
+
+- Kind: Constitution text
+- Page: https://mericamercenary.github.io/the-record-web/ctx/constitution/amd23.md
+- Last updated: Fixed text
+
+The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct:
+
+A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
+
+The Congress shall have power to enforce this article by appropriate legislation.
+
+## Official source
+
+- U.S. National Archives transcription: https://www.archives.gov/founding-docs/constitution-transcript

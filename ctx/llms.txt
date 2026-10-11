@@ -1,0 +1,15 @@
+# THE RECORD
+
+> Read-only record from THE RECORD; cite sources; no verdicts.
+
+THE RECORD tracks official U.S. government decisions (Congress votes and actions), who represents each place, and the text of the U.S. Constitution. These pages are read-only plain text for people and AI tools.
+
+Rules for using these pages: cite the official source links on each page; if a value says UNKNOWN or is missing, say UNKNOWN; do not frame anything by party; do not state whether anything is constitutional.
+
+## Pages
+
+- [Index](https://mericamercenary.github.io/the-record-web/ctx/index.md)
+- [Machine index (JSON)](https://mericamercenary.github.io/the-record-web/ctx/index.json)
+- Decision: https://mericamercenary.github.io/the-record-web/ctx/decision/<matter id>.md, for example https://mericamercenary.github.io/the-record-web/ctx/decision/us-congress-119-hconres-89.md
+- Place: https://mericamercenary.github.io/the-record-web/ctx/place/<geoid>.md, for example https://mericamercenary.github.io/the-record-web/ctx/place/27.md (Minnesota)
+- Constitution: https://mericamercenary.github.io/the-record-web/ctx/constitution/<part id>.md, for example https://mericamercenary.github.io/the-record-web/ctx/constitution/amd1.md

@@ -1,0 +1,15 @@
+# U.S. Constitution: 22nd Amendment: two-term limit for President
+
+> Read-only record from THE RECORD; cite sources; no verdicts.
+
+- Kind: Constitution text
+- Page: https://mericamercenary.github.io/the-record-web/ctx/constitution/amd22.md
+- Last updated: Fixed text
+
+No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once. But this Article shall not apply to any person holding the office of President when this Article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this Article becomes operative from holding the office of President or acting as President during the remainder of such term.
+
+This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress.
+
+## Official source
+
+- U.S. National Archives transcription: https://www.archives.gov/founding-docs/constitution-transcript
